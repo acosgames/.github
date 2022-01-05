@@ -3,7 +3,7 @@
 ### Documentation
 [https://docs.acos.games](https://docs.acos.games)
 
-### Play the games online
+### Deploy and play your games online immediately
 [https://acos.games](https://acos.games)
 
 ### Chat with us on Discord
