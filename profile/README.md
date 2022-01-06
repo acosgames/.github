@@ -1,4 +1,4 @@
-# Help us build games!  
+# Help us build turn-based or trivia games!  
 
 ### Documentation
 [https://docs.acos.games](https://docs.acos.games)
