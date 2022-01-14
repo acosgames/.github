@@ -1,4 +1,4 @@
-# Help us build turn-based or trivia games!  
+# Join the community and start building realtime turn-based or trivia games!  
 
 ### Documentation
 [https://docs.acos.games](https://docs.acos.games)
