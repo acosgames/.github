@@ -17,8 +17,7 @@ https://acos.games/dev
 ---
 
 ## How it works
-
-![image](https://user-images.githubusercontent.com/96845776/149442515-21a2547f-d69b-4ee0-a9dc-d19fd975baa9.png)
+![acos-statemachine](https://user-images.githubusercontent.com/96845776/152659924-388025b8-9dc9-4c1d-b152-e466b2352028.png)
 
 1. Your client code sends `action`
 2. Your server code reads `action` and changes `state`.
@@ -32,3 +31,4 @@ https://acos.games/dev
 - Experimental versions for online testing 
 - Up to 100 players in a room
 - Error reports
+
