@@ -5,7 +5,7 @@ Supports realtime turn-based type games using a JSON game state. Share the clien
 ### Documentation
 [https://docs.acos.games](https://docs.acos.games)
 
-### Become an Acos Developer today!
+### Become an ACOS Developer today!
 https://acos.games/dev
 
 ### Play your games online immediately after you deploy
