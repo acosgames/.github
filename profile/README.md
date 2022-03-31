@@ -1,6 +1,6 @@
 # Join the community and start making online web games!
 
-We support realtime turn-based type games using websockets and JSON, all automated to help you spit out games faster than ever.
+Supports realtime turn-based type games using only a JSON game state, all automated to help you spit out games faster than ever.
 
 ### Documentation
 [https://docs.acos.games](https://docs.acos.games)
@@ -20,8 +20,8 @@ https://acos.games/dev
 ![acos-statemachine](https://user-images.githubusercontent.com/96845776/152659924-388025b8-9dc9-4c1d-b152-e466b2352028.png)
 
 1. Your client code sends `action`
-2. Your server code reads `action` and changes `state`.
-3. Websocket server distributes back to clients, very efficiently.
+2. Your server JS code runs on ACOS, reads `action`, and changes JSON `state`.
+3. ACOS distributes JSON back to clients, to react on changes.
 
 ### Supports
 
