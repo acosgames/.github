@@ -1,6 +1,6 @@
 # Join the community and start making online web games!
 
-Supports realtime turn-based type games using a JSON game state. Share the client and run your server code on ACOS, and let the platform connect you to the players.
+Supports realtime turn-based type games using a JSON game state built entirely with JavaScript. Share the client and run your server code on ACOS, and let the platform connect you to the players.
 
 ### Documentation
 [https://docs.acos.games](https://docs.acos.games)
