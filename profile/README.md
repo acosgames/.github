@@ -3,7 +3,7 @@
 Supports realtime turn-based type games using a JSON game state built entirely with JavaScript. Share the client and run your server code on ACOS, and let the platform connect you to the players.
 
 ### Documentation
-[https://docs.acos.games](https://docs.acos.games)
+[https://sdk.acos.games](https://docs.acos.games)
 
 ### Become an ACOS Developer today!
 https://acos.games/dev
