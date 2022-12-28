@@ -23,6 +23,9 @@ https://acos.games/dev
 2. Your server JS code runs on ACOS, reads `action`, and changes JSON `state`.
 3. ACOS distributes JSON back to clients, to react on changes.
 
+## Simulator Demo
+https://user-images.githubusercontent.com/1610876/209871930-1e88e11c-c54a-41bf-a5a5-ce5c6f9e3903.mp4
+
 ### Supports
 
 - Rank and Leaderboard system for ALL games
